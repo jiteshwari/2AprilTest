@@ -1,0 +1,6 @@
+D:\biz-pro\WebApplication1\Cls\bin\Debug\Cls.exe.config
+D:\biz-pro\WebApplication1\Cls\bin\Debug\Cls.exe
+D:\biz-pro\WebApplication1\Cls\bin\Debug\Cls.pdb
+D:\biz-pro\WebApplication1\Cls\obj\Debug\Cls.csprojResolveAssemblyReference.cache
+D:\biz-pro\WebApplication1\Cls\obj\Debug\Cls.exe
+D:\biz-pro\WebApplication1\Cls\obj\Debug\Cls.pdb

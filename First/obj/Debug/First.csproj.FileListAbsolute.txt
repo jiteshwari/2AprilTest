@@ -1,0 +1,5 @@
+D:\biz-pro\WebApplication1\First\bin\Debug\First.exe.config
+D:\biz-pro\WebApplication1\First\bin\Debug\First.exe
+D:\biz-pro\WebApplication1\First\bin\Debug\First.pdb
+D:\biz-pro\WebApplication1\First\obj\Debug\First.exe
+D:\biz-pro\WebApplication1\First\obj\Debug\First.pdb

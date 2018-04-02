@@ -1,0 +1,6 @@
+D:\biz-pro\WebApplication1\Sever\bin\Debug\Sever.exe.config
+D:\biz-pro\WebApplication1\Sever\bin\Debug\Sever.exe
+D:\biz-pro\WebApplication1\Sever\bin\Debug\Sever.pdb
+D:\biz-pro\WebApplication1\Sever\obj\Debug\Sever.csprojResolveAssemblyReference.cache
+D:\biz-pro\WebApplication1\Sever\obj\Debug\Sever.exe
+D:\biz-pro\WebApplication1\Sever\obj\Debug\Sever.pdb
